@@ -5,9 +5,6 @@
 **Workflow:
 **<img width="1090" height="410" alt="Screenshot 2025-12-05 at 12 18 23" src="https://github.com/user-attachments/assets/9f26eadf-b874-405d-a7ce-a9235514044f" />
 
-**Sample output:
-**<img width="1395" height="735" alt="Screenshot 2025-12-05 at 12 15 27" src="https://github.com/user-attachments/assets/a4d4076c-9f6a-47ea-ae30-c0376d06a4b5" />
-
 ## 🚀 Overview
 
 Manual design QA and UX audits are time-consuming and subjective. This **n8n workflow** automates the heuristic analysis process by acting as an always-on "UX Auditor."
@@ -37,7 +34,7 @@ It iterates through a list of target URLs, captures high-resolution screenshots,
 
 The agent transforms raw URLs into a formatted audit report:
 
-![Sample Report](sample_report.png)
+**<img width="1395" height="735" alt="Screenshot 2025-12-05 at 12 15 27" src="https://github.com/user-attachments/assets/a4d4076c-9f6a-47ea-ae30-c0376d06a4b5" />
 
 ## ⚙️ How It Works
 
