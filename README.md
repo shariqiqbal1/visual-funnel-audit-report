@@ -1,4 +1,4 @@
-# 👁️ Automated Visual UX Auditor
+# Automated Visual UX Auditor
 
 **An autonomous AI agent that visually audits web pages for design friction, accessibility issues, and conversion blockers using Claude 3.5 Sonnet.**
 
